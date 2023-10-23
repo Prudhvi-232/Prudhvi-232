@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prudhvi-232
-- 👀 I’m interested in web devlopment and ds
+- 👀 I’m interested in web devlopment and computational programming
 - 🌱 I’m currently learning javascript,c,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
