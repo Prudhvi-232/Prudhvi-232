@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prudhvi-232
 - 👀 I’m interested in web devlopment and competitive programming
-- 🌱 I’m currently learning javascript,c,c++
+- 🌱 I’m currently learning c,c++,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
