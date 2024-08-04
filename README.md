@@ -29,6 +29,15 @@
 ### 🎯 Streak:
 
  <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Prudhvi-232&theme=highcontrast&hide_border=true" alt="Prudhvi-232" />
+
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    <a href="https://badgr.com/backpack/badges/66af6a029407db50ce73a7d9">
+        <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+    </a>
+</div>
+
  
 <!---
 Prudhvi-232/Prudhvi-232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
