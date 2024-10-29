@@ -54,6 +54,26 @@
  </a> 
 </div>
 
+## Hacktoberfest 2024 Holopin Badges 🌟
+<div align="center" style="display: flex; gap: 10px;">
+    <a href="https://www.holopin.io/userbadge/cm1lta80354260ciaaynti58m" target="_blank">
+        <img src="https://www.holopin.io/api/userbadge/cm1lta80354260ciaaynti58m" width="100px" height="100px" />
+    </a>
+    <a href="https://www.holopin.io/userbadge/cm2656973577680cl8qss4yjt0" target="_blank">
+        <img src="https://www.holopin.io/api/userbadge/cm2656973577680cl8qss4yjt0" width="100px" height="100px" />
+    </a>
+    <a href="https://www.holopin.io/userbadge/cm29wuh91265540cmfhpbla8gn" target="_blank">
+        <img src="https://www.holopin.io/api/userbadge/cm29wuh91265540cmfhpbla8gn" width="100px" height="100px" />
+    </a>
+    <a href="https://www.holopin.io/userbadge/cm2kgbh17109390cl9fv78lt63" target="_blank">
+        <img src="https://www.holopin.io/api/userbadge/cm2kgbh17109390cl9fv78lt63" width="100px" height="100px" />
+    </a>
+    <a href="https://www.holopin.io/userbadge/cm2ucs70a10670clbdwcpuwfk" target="_blank">
+        <img src="https://www.holopin.io/api/userbadge/cm2ucs70a10670clbdwcpuwfk" width="100px" height="100px" />
+    </a>
+</div>
+
+
  
 <!---
 Prudhvi-232/Prudhvi-232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
