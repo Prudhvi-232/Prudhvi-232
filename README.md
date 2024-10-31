@@ -56,30 +56,31 @@
 
 ## Hacktoberfest 2024 Holopin Badges 🌟
 <div align="center" style="display: flex; gap: 10px;">
-    <!-- Registered Badge -->
+   <!-- Registered Badge -->
 <a href="https://www.holopin.io/userbadge/cm1lta80354260ciaaynti58m" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="150px" height="150px" />
 </a>
 
 <!-- Level 1 Badge -->
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2656973577680cl8qss4yjt0" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="150px" height="150px" />
 </a>
 
 <!-- Level 2 Badge -->
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm29wuh91265540cmfhpbla8gn" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-coffee-hoodie-0-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-coffee-hoodie-0-0.webp" width="150px" height="150px" />
 </a>
 
 <!-- Level 3 Badge -->
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2kgbh17109390cl9fv78lt63" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-coffee-hoodie-witch-0.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-coffee-hoodie-witch-0.webp" width="150px" height="150px" />
 </a>
 
 <!-- Level 4 Badge -->
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2ucs70a10670clbdwcpuwfk" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-coffee-hoodie-witch-eclipse.webp" width="100px" height="100px" />
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-coffee-hoodie-witch-eclipse.webp" width="150px" height="150px" />
 </a>
+
 
 </div>
 
