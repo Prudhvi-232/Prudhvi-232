@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm prudhvi</h1>
 <h3 align="center">A passionate flutter and ML devloper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prudhvi-232&label=Profile%20views&color=0e75b6&style=flat" alt="prudhvi-232" /> </p>
 
 - 🔭 I’m currently working on a ML project [Gyo.Ai](https://github.com/Prudhvi-232/GyoAi)
 
