@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm prudhvi</h1>
-<h3 align="center">A passionate flutter and ML devloper</h3>
+<h3 align="center">Aspiring ML Developer</h3>
 
 
 - 🔭 I’m currently working on a ML project [Gyo.Ai](https://github.com/Prudhvi-232/GyoAi)
