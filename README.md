@@ -2,17 +2,6 @@
 <h3 align="center">Aspiring ML Developer</h3>
 
 
-- 🔭 I’m currently working on a ML project [Gyo.Ai](https://github.com/Prudhvi-232/GyoAi)
-
-- 🌱 I’m currently learning **deep learning, flutter,**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Prudhvi-232](https://github.com/Prudhvi-232)
-
-- 💬 Ask me about **flutter**
-
-- 📫 How to reach me **prudhvitaduvai@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
